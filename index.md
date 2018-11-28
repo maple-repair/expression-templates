@@ -1,12 +1,11 @@
 <!-- You can use the [editor on GitHub](https://github.com/maple-repair/expression-templates/edit/master/index.md) to maintain and preview the content for your website in Markdown files. -->
 
-# Automated Program Repair using Formal Specifications.
-
+<!-- # Automated Program Repair using Formal Specifications. -->
 
 ## Experiment data for Maple in the benchmark **Recursion**
 In our paper's experiment section, we have 2 benchmarks, **TCAS** and a
 newly-created **Recursion**. The details about the second benchmark is provided
-at [Link](https://github.com/maple-repair/recursive-benchmark).
+in [Github](https://github.com/maple-repair/recursive-benchmark).
 
 <!-- ## Our VMCAI paper -->
 
