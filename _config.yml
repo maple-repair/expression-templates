@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
-title: Automatic Program Repair using Formal Verification and Expression Templates
+title: Automatic Program Repair using \\
+       Formal Verification and Expression Templates
 github:
   is_project_page: false
